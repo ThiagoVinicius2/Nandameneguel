@@ -1,45 +1,27 @@
-# 👩🏻‍💻 Fernanda Meneguel
+# 👩🏻‍💻 Thiago Vinicius
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+**`Analista de dados`**
 
-**`Analista de Dados 🎲`**
-
-Olá! Meu nome é Fernanda, tenho 21 anos e sou natural do Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio, onde venho me aprofundando cada vez mais no universo da tecnologia — uma área pela qual sou verdadeiramente apaixonada. Acredito no poder do conhecimento e estou aqui para dividir meus aprendizados nesse fascinante mundo tech. 
+Sou Engenheiro de Produção com mais de 10 anos de experiência em ambientes industriais e varejistas, atuando nas áreas de Engenharia de Produção e Análise de Dados. Tenho formação em Engenharia de Produção pela Universidade Positivo e atualmente curso especialização em Análise de Dados pela PUCPR. Também possuo certificações em Big Data, Machine Learning, SQL Server, Excel e Power BI Avançado.
 
 **`👤 Conecte-se comigo:`**
 <div> 
-  <a href="https://www.linkedin.com/in/fernanda-foltran?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:meneguelfernanda938@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/nanda_meneguel?igsh=MTVsZ2ozZzh2ZzMwbA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiagovinicius1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:thiagoo_2662@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
 ---
-### 🤖 Linguagens e Tecnologias
 
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Power BI" 
+    title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 />
-
- <img 
-     align="left" 
-    alt="SQLServer" 
-    title="SQLServer"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
- />
-          
 
 <img 
      align="left" 
@@ -49,41 +31,34 @@ Olá! Meu nome é Fernanda, tenho 21 anos e sou natural do Paraná. Atualmente, 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
-<img 
-     align="left" 
-    alt="SQLite" 
-    title="SQLite"
-    width="30px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
-          
-<img 
-     align="left" 
-    alt="Azure" 
-    title="Azure"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://devicon-website.vercel.app/api/azure/original.svg"></img>
+<img
+  align="left"
+  alt="Excel"
+  title="Excel"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Excel_logo_2013.svg"
+/>
 
-<img 
-     align="left" 
-    alt="Raspberrypi" 
-    title="Raspberrypi"
-    width="30px" 
-    style="padding-right: 10px;"
-src="https://devicon-website.vercel.app/api/raspberrypi/original.svg"></img>
+<br/>
+<br/>
 
+### 📊 Estatísticas
 
+<p>
   <img 
     align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-          
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandameneguel/nandameneguel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nandameneguel/nandameneguel/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nandameneguel/nandameneguel/output/github-contribution-grid-snake.svg">
-</picture>
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
